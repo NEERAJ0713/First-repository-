@@ -1,2 +1,2 @@
 # First-repository-
-its about htmal 
+its about html
